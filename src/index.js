@@ -5,7 +5,7 @@ import App from './App';
 import RandomColor from "./components/RandomColor"
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<randomColor />, document.getElementById('root'));
+ReactDOM.render(<RandomColor />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
